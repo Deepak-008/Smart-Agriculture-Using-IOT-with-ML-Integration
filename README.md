@@ -16,6 +16,11 @@ This approach improves resource efficiency, reduces manual intervention, and pro
 
 ---
 
+
+
+
+![image alt](https://github.com/Deepak-008/Smart-Agriculture-Using-IOT-with-ML-Integration/blob/main/Ckt_DIA.png)
+
 ## 🏗️ System Architecture
 The system follows a layered architecture:
 
@@ -54,13 +59,7 @@ The system follows a layered architecture:
 
 ---
 
-## 📊 Sample Data
-| Timestamp           | Temperature (°C) | Humidity (%) | Soil Moisture (%) |
-|---------------------|------------------|--------------|-------------------|
-| 11/30/2024 13:48:27 | 25.9             | 60           | 30                |
-| 11/30/2024 13:48:34 | 25.9             | 59           | 30                |
-| 11/30/2024 13:48:41 | 25.9             | 59           | 31                |
-
+[image alt](https://github.com/Deepak-008/Smart-Agriculture-Using-IOT-with-ML-Integration/blob/main/UI.png)
 ---
 
 ## 🤖 Machine Learning Integration
