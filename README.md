@@ -59,7 +59,10 @@ The system follows a layered architecture:
 
 ---
 
-[image alt](https://github.com/Deepak-008/Smart-Agriculture-Using-IOT-with-ML-Integration/blob/main/UI.png)
+![image alt](https://github.com/Deepak-008/Smart-Agriculture-Using-IOT-with-ML-Integration/blob/main/UI.png)
+![image alt](https://github.com/Deepak-008/Smart-Agriculture-Using-IOT-with-ML-Integration/blob/main/UI_mobile.png)
+
+
 ---
 
 ## 🤖 Machine Learning Integration
