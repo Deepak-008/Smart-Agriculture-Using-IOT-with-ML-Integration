@@ -2,6 +2,7 @@
 
 An IoT-powered solution for modern farming that integrates **real-time monitoring**, **automated irrigation**, and **machine learning-based crop recommendations**. This project was developed as part of the B.Tech program in Electronics & Communication Engineering at **Haldia Institute of Technology**.
 
+![image alt](https://github.com/Deepak-008/Smart-Agriculture-Using-IOT-with-ML-Integration/blob/main/circuit.png)
 ---
 
 ## 📖 Overview
